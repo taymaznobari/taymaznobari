@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Taymaz</h1>
 <h3 align="center">Computer science student based in Iran, passionate about exploring the world of coding. On a journey of learning and growth.</h3>
 
-<img align="right" alt="Taymaz" width = "380" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align="right" alt="Taymaz" width = "350" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taymaznobari&label=Profile%20views&color=0e75b6&style=flat" alt="taymaznobari" /> </p>
 
